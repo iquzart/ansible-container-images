@@ -1,4 +1,4 @@
-FROM centos:9
+FROM redhat/ubi9:latest
 
 LABEL Maintainer="Muhammed Iqbal <iquzart@hotmail.com>"
 ENV container docker
